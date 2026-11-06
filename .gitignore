@@ -1,0 +1,4 @@
+# Ignore HFSS simulation results and lock files
+*.aedtresults/
+*.lock
+*.auto
